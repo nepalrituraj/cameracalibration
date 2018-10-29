@@ -1,3 +1,6 @@
+/*
+This is camera callibration code for OpenCv
+*/
 #include "opencv2/opencv.hpp"
 #include <fstream>
 #include <string>
